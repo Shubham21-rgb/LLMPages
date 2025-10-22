@@ -1,0 +1,5 @@
+{
+  "people": 4,
+  "case_1": {"swerve": true, "reason": "Minimize harm by reducing the number of people hit."},
+  "case_2": {"swerve": false, "reason": "Prioritize the life of a child over two criminals."}
+}
